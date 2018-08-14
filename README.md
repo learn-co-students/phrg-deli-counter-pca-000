@@ -47,5 +47,7 @@ Example usage:
   ```
   **Hint:** Review adding and removing elements from an array as well as iterating with index numbers. Also, many of the methods to add and remove elements from an array can also be used to add and remove elements to a string. This will help you solve the lab.
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-deli-counter/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-deli-counter/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
 <p data-visibility='hidden'>PHRG Deli Counter - Take a Number</p>
